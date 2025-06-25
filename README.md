@@ -17,6 +17,15 @@
 - TailwindCSS
 - Vite
 
+## 📚 Co jsem se naučil
+
+- Používání TypeScriptu v reálném projektu
+- Využití Reactu pro tvorbu interaktivního UI
+- Práce se stavem aplikace a event handlingem
+- Základy TailwindCSS – utility-first přístup ke stylování
+- Rozdělení aplikace do přehledných komponent
+- Debugging a testování UI chování
+
 ## 🚀 Jak spustit
 
 ```bash
