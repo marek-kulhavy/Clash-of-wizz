@@ -1,1 +1,23 @@
 node_modules
+dist/
+.vite/         # Vite cache
+*.tsbuildinfo  # TS build info
+
+# Proměnné prostředí
+.env
+.env.local
+.env.*.local
+
+# Logy a cache
+*.log
+.cache/
+
+# IDE/Editor konfigurace
+.idea/
+.vscode/
+*.code-workspace
+
+# Systémové soubory
+.DS_Store
+Thumbs.db
+desktop.ini
